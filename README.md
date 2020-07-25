@@ -1,14 +1,13 @@
 ### Hi，Welcome to my GitHub!
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.weltonf@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Wechat-4CA143?style=flat-square&labelColor=4CA143&logo=wechat&logoColor=white)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](jstarfish911@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Wechat-4CA143?style=flat-square&labelColor=4CA143&logo=wechat&logoColor=white)](https://imgkr.cn-bj.ufileos.com/6e7c80a9-48e6-4a2a-b920-682d8f0bab5c.png)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/profile.php?id=100010214377415)
+[![](https://img.shields.io/badge/-MyBlog-ff5722?style=flat-square&labelColor=ff5722&logo=blogger&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.lazyegg.net/)
 
 ### I am starfish
 
--  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  />🛠 I’m currently working with Java, Python, Scala, SQL
+-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />🛠 I’m currently working with Java, Python, Scala, SQL
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Anything is possible
-
-
+- ⚡ Fun fact: Always believe that paying and harvesting are directly proportional.
