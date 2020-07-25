@@ -1,14 +1,14 @@
 ### Hi，Welcome to my GitHub!
 
-- I am Jstarfish,a super handsome boy
+- I am starfish
 
 - <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />🛠 I’m currently working with Java, Python, Scala, SQL
 
-- 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
+- 👨🏻‍💻 I’m currently learning Full Stack Development
 
 - 💬 Ask me about anything, I am happy to help
 
-- ⚡ Fun fact: Always believe that paying and harvesting are directly proportional.
+- ⚡ Fun fact: Always believe that paying and harvesting are directly proportional
 
 - 📫 How to reach me: [jstarfish911@gmail.com](jstarfish911@gmail.com)
 
